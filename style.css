@@ -1,0 +1,32 @@
+.container {
+  margin-bottom: 16px;
+  display: flex;
+  gap: 5px;
+}
+
+.red {
+  background-color: rgb(255, 0, 0);
+}
+
+.green {
+  background-color: rgb(0, 255, 0);
+}
+
+.dot {
+  height: 10px;
+  width: 10px;
+  border-radius: 50%;
+  margin: 5px;
+}
+
+.flex {
+  display: flex;
+  align-items: center;
+}
+
+.rect {
+  height: 20px;
+  width: 20px;
+  border: 1px solid rgb(255, 0, 0);
+  margin: 5px;
+}
